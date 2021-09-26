@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "ritz",
+  "version": "1.0.0",
+  "description": "Video chat lib",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Neuman Vong",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.10"
+  }
+}
