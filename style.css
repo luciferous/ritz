@@ -1,0 +1,5 @@
+body {margin:0;padding:0;}
+
+div.peer {padding:12px; border:2px solid orange; border-radius:8px;}
+div.peer textarea {display:block;}
+div.peer video {border:2px solid black;}
